@@ -11,7 +11,7 @@ export default function AboutSection() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="animate-slide-up">
             <img
-              src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600"
+              src="/aboutme.jpeg"
               alt="Modern Developer Workspace"
               className="rounded-2xl shadow-2xl"
             />

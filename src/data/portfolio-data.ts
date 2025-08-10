@@ -46,7 +46,7 @@ export const projects = [
       "Node.js",
     ],
     image:
-      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=500",
+      "/project1.jpeg",
     type: "web",
     githubcode: "https://github.com/praju096/vimetchatapp",
   },
@@ -58,7 +58,7 @@ export const projects = [
       "Developed and implemented an enhanced AODV routing protocol (R-AODV) for Vehicular Ad Hoc Networks(VANETs) to improve communication reliability in dynamic traffic environments. The protocol evaluates neighbor nodes based on real-time parameters such as speed, signal strength (RSSI),delay, and congestion to compute a reliability score used during route selection. Simulated the system using NS-3 and SUMO, achieving improvements in packet delivery ratio, route stability and throughput over standard AODV.",
     technologies: ["NS-3 Simulation", "SUMO", "C++", "Network Protocols", 'Python', 'NumPy', 'Pandas', 'Machine Learning'],
     image:
-      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=500",
+      "/project2.jpeg",
     type: "research",
     githubcode: "https://github.com/praju096/Vanet-ImproveAodvProtocol",
   },
@@ -76,7 +76,7 @@ export const projects = [
       "Bootstrap",
     ],
     image:
-      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=500",
+      "/project3.jpeg",
     type: "web",
     githubcode: "https://github.com/praju096/BookStore-MERN-stack",
   },
@@ -96,7 +96,7 @@ export const projects = [
       "Linux",
     ],
     image:
-      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=500",
+      "/project4.jpeg",
     type: "research",
     githubcode: "https://github.com/praju096/studyinvirtualmigrationincloudcomputing",
   },
@@ -108,7 +108,7 @@ export const projects = [
       "Dynamic sports shop application with personalized recommendations and intuitive admin dashboard. Features comprehensive product management, user authentication, and responsive design.",
     technologies: ["Node.js", "MySQL", "Admin Dashboard", "React.js", "Express.js", "Bootstrap"],
     image:
-      "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=500",
+      "/project5.jpeg",
     type: "web",
     githubcode: "https://github.com/praju096/sporthubfrontend",
   },
@@ -180,3 +180,25 @@ export const languages = [
   "Hindi (Fluent)",
   "Gujarati (Native)",
 ];
+
+export const experiences = [
+  {
+    role: "React Developer Intern",
+    company: "Logical Wings Infoweb pvt ltd",
+    location: "Vadodara, Gujarat",
+    duration: "June 2025 – Present",
+    type: "Internship",
+    description:
+      "Contributed to a cross-platform e-commerce app. Built reusable React components, improved performance by 20%, and implemented Redux for global state.",
+  },
+  // {
+  //   role: "Full Stack Developer",
+  //   company: "",
+  //   location: "",
+  //   duration: "",
+  //   type: "",
+  //   description:
+  //     "Developing scalable REST APIs with Express and integrating React dashboards. Leading frontend development and collaborating with the design team to elevate UX.",
+  // },
+];
+

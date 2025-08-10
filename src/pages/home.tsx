@@ -7,6 +7,7 @@ import ProjectsSection from '../components/projects-section';
 import EducationSection from '../components/education-section';
 import ContactSection from '../components/contact-section';
 import { personalInfo } from '../data/portfolio-data';
+import ExperienceSection from '../components/experience-section';
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
         <SkillsSection />
         <ProjectsSection />
         <EducationSection />
+        <ExperienceSection />
         <ContactSection />
       </main>
 
@@ -39,7 +41,8 @@ export default function Home() {
               <a href="#skills" className="text-gray-400 hover:text-[#ff0080] transition-colors">Skills</a>
               <a href="#projects" className="text-gray-400 hover:text-[#00ff88] transition-colors">Projects</a>
               <a href="#education" className="text-gray-400 hover:text-[#00d4ff] transition-colors">Education</a>
-              <a href="#contact" className="text-gray-400 hover:text-[#ff0080] transition-colors">Contact</a>
+              <a href="#experience" className="text-gray-400 hover:text-[#ff0080] transition-colors">Experience</a>
+              <a href="#contact" className="text-gray-400 hover:text-[#00ff88] transition-colors">Contact</a>
             </div>
 
             {/* Mobile Navigation - 2 column grid */}
@@ -49,7 +52,8 @@ export default function Home() {
               <a href="#skills" className="text-gray-400 hover:text-[#ff0080] transition-colors py-2">Skills</a>
               <a href="#projects" className="text-gray-400 hover:text-[#00ff88] transition-colors py-2">Projects</a>
               <a href="#education" className="text-gray-400 hover:text-[#00d4ff] transition-colors py-2">Education</a>
-              <a href="#contact" className="text-gray-400 hover:text-[#ff0080] transition-colors py-2">Contact</a>
+              <a href="#experience" className="text-gray-400 hover:text-[#ff0080] transition-colors py-2">Experience</a>
+              <a href="#contact" className="text-gray-400 hover:text-[#00ff88] transition-colors py-2">Contact</a>
             </div>
           </div>
 
