@@ -186,19 +186,19 @@ export const experiences = [
     role: "React Developer Intern",
     company: "Logical Wings Infoweb pvt ltd",
     location: "Vadodara, Gujarat",
-    duration: "June 2025 – Present",
+    duration: "May 2025 – July 2025 ",
     type: "Internship",
     description:
       "Contributed to a cross-platform e-commerce app. Built reusable React components, improved performance by 20%, and implemented Redux for global state.",
   },
-  // {
-  //   role: "Full Stack Developer",
-  //   company: "",
-  //   location: "",
-  //   duration: "",
-  //   type: "",
-  //   description:
-  //     "Developing scalable REST APIs with Express and integrating React dashboards. Leading frontend development and collaborating with the design team to elevate UX.",
-  // },
+  {
+    role: "Software Developer",
+    company: "Logical Wings Infoweb pvt ltd",
+    location: "Vadodara, Gujarat",
+    duration: "Sep 2025 - Present",
+    type: "Full Time",
+    description:
+      "Developing scalable REST APIs with Express and integrating React dashboards. Leading frontend development and collaborating with the design team to elevate UX.",
+  },
 ];
 
