@@ -46,7 +46,7 @@ export const projects = [
       "Node.js",
     ],
     image:
-      "/project1.jpeg",
+      "/vimet.PNG",
     type: "web",
     githubcode: "https://github.com/praju096/vimetchatapp",
   },
@@ -58,7 +58,7 @@ export const projects = [
       "Developed and implemented an enhanced AODV routing protocol (R-AODV) for Vehicular Ad Hoc Networks(VANETs) to improve communication reliability in dynamic traffic environments. The protocol evaluates neighbor nodes based on real-time parameters such as speed, signal strength (RSSI),delay, and congestion to compute a reliability score used during route selection. Simulated the system using NS-3 and SUMO, achieving improvements in packet delivery ratio, route stability and throughput over standard AODV.",
     technologies: ["NS-3 Simulation", "SUMO", "C++", "Network Protocols", 'Python', 'NumPy', 'Pandas', 'Machine Learning'],
     image:
-      "/project2.jpeg",
+      "/vanet.png",
     type: "research",
     githubcode: "https://github.com/praju096/Vanet-ImproveAodvProtocol",
   },
@@ -108,7 +108,7 @@ export const projects = [
       "Dynamic sports shop application with personalized recommendations and intuitive admin dashboard. Features comprehensive product management, user authentication, and responsive design.",
     technologies: ["Node.js", "MySQL", "Admin Dashboard", "React.js", "Express.js", "Bootstrap"],
     image:
-      "/project5.jpeg",
+      "/sporthub.png",
     type: "web",
     githubcode: "https://github.com/praju096/sporthubfrontend",
   },
