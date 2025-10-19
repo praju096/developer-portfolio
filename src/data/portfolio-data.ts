@@ -103,7 +103,7 @@ export const projects = [
   {
     id: 5,
     title: "Sports Shop E-commerce SPORTHUB",
-    period: "2021-2022",
+    period: "2025",
     description:
       "Dynamic sports shop application with personalized recommendations and intuitive admin dashboard. Features comprehensive product management, user authentication, and responsive design.",
     technologies: ["Node.js", "MySQL", "Admin Dashboard", "React.js", "Express.js", "Bootstrap"],
